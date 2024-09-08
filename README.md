@@ -1,6 +1,7 @@
 # Exemplos de Paneil
 
 ## UML com Markdown:
+#### Você pode encontrar mais informações sobre UML e a sintaxe Mermaid online.
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
